@@ -1,12 +1,1 @@
 # openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
-# openresty-lua-test
